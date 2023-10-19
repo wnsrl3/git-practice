@@ -1,0 +1,5 @@
+total 2.0K
+-rw-r--r-- 1 wnsrl 197609 34 Oct 19 19:36 cat.txt
+-rw-r--r-- 1 wnsrl 197609  0 Oct 19 19:37 file_list.txt
+drwxr-xr-x 1 wnsrl 197609  0 Oct 18 23:37 first commit/
+-rw-r--r-- 1 wnsrl 197609 12 Oct 18 23:37 first commit.txt

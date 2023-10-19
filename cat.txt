@@ -1,0 +1,7 @@
+school
+class
+home
+new 
+lecture
+hello
+
